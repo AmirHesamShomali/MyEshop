@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyEshop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyEshop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\Admin.css",
+      "PackagePath": "staticwebassets\\css\\Admin.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\css\\style2.css",
+      "PackagePath": "staticwebassets\\css\\style2.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\Vazir.eot",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\Vazir.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\Vazir.woff",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\Vazir.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Vazir.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\0.jpg",
+      "PackagePath": "staticwebassets\\images\\0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\28.jpg",
+      "PackagePath": "staticwebassets\\images\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\29.jpg",
+      "PackagePath": "staticwebassets\\images\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\product-0.jpg",
+      "PackagePath": "staticwebassets\\images\\product-0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\product-23.jpg",
+      "PackagePath": "staticwebassets\\images\\product-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\product-24.jpg",
+      "PackagePath": "staticwebassets\\images\\product-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\product-25.jpg",
+      "PackagePath": "staticwebassets\\images\\product-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\product-26.jpg",
+      "PackagePath": "staticwebassets\\images\\product-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\images\\product-27.jpg",
+      "PackagePath": "staticwebassets\\images\\product-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\google-map.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\range.js",
+      "PackagePath": "staticwebassets\\js\\range.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\custom.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\custom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\30.jpg",
+      "PackagePath": "staticwebassets\\pics\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\31.jpg",
+      "PackagePath": "staticwebassets\\pics\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\about.jpg",
+      "PackagePath": "staticwebassets\\pics\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\pics\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\pics\\bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\pics\\bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\category-1.jpg",
+      "PackagePath": "staticwebassets\\pics\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\category-2.jpg",
+      "PackagePath": "staticwebassets\\pics\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\category-3.jpg",
+      "PackagePath": "staticwebassets\\pics\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\category-4.jpg",
+      "PackagePath": "staticwebassets\\pics\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\category.jpg",
+      "PackagePath": "staticwebassets\\pics\\category.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\image_1.jpg",
+      "PackagePath": "staticwebassets\\pics\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\image_2.jpg",
+      "PackagePath": "staticwebassets\\pics\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\image_3.jpg",
+      "PackagePath": "staticwebassets\\pics\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\image_4.jpg",
+      "PackagePath": "staticwebassets\\pics\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\image_5.jpg",
+      "PackagePath": "staticwebassets\\pics\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\image_6.jpg",
+      "PackagePath": "staticwebassets\\pics\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\partner-1.png",
+      "PackagePath": "staticwebassets\\pics\\partner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\partner-2.png",
+      "PackagePath": "staticwebassets\\pics\\partner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\partner-3.png",
+      "PackagePath": "staticwebassets\\pics\\partner-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\partner-4.png",
+      "PackagePath": "staticwebassets\\pics\\partner-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\partner-5.png",
+      "PackagePath": "staticwebassets\\pics\\partner-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\person_1.jpg",
+      "PackagePath": "staticwebassets\\pics\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\person_2.jpg",
+      "PackagePath": "staticwebassets\\pics\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\person_3.jpg",
+      "PackagePath": "staticwebassets\\pics\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\person_4.jpg",
+      "PackagePath": "staticwebassets\\pics\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-10.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1022.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1023.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1023.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1024.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1025.PNG",
+      "PackagePath": "staticwebassets\\pics\\product-1025.PNG"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1026.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1026.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1027.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1027.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1028.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1028.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1032.PNG",
+      "PackagePath": "staticwebassets\\pics\\product-1032.PNG"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1032.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1032.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1033.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1033.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1034.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1035.PNG",
+      "PackagePath": "staticwebassets\\pics\\product-1035.PNG"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1036.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1036.png",
+      "PackagePath": "staticwebassets\\pics\\product-1036.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1037.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1037.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1038.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1038.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1039.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1039.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1040.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1040.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1041.PNG",
+      "PackagePath": "staticwebassets\\pics\\product-1041.PNG"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1041.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-1041.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-1042.PNG",
+      "PackagePath": "staticwebassets\\pics\\product-1042.PNG"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-11.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-12.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-2.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-3.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-32.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-33.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-34.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-35.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-36.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-37.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-37.png",
+      "PackagePath": "staticwebassets\\pics\\product-37.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-38.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-4.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-4.png",
+      "PackagePath": "staticwebassets\\pics\\product-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-5.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-5.png",
+      "PackagePath": "staticwebassets\\pics\\product-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-6.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-7.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-8.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\مصاحبه کاری\\c#\\proje-froshghai\\MyEshop\\MyEshop\\wwwroot\\pics\\product-9.jpg",
+      "PackagePath": "staticwebassets\\pics\\product-9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyEshop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyEshop.props",
+      "PackagePath": "build\\MyEshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyEshop.props",
+      "PackagePath": "buildMultiTargeting\\MyEshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyEshop.props",
+      "PackagePath": "buildTransitive\\MyEshop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

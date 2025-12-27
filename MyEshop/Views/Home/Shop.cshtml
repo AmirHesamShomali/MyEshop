@@ -1,0 +1,87 @@
+﻿@model IEnumerable<Productcs>
+@{
+    ViewData["Title"] = "Shop";
+}
+<div class="hero-wrap hero-bread" style="background-image: url('pics/bg_1.jpg');">
+	<div class="container">
+		<div class="row no-gutters slider-text align-items-center justify-content-center">
+			<div class="col-md-9 ftco-animate text-center">
+				<p class="breadcrumbs"><span class="mr-2"><a href="index.html">خانه</a></span> </p>
+				<h1 class="mb-0 bread">محصولات</h1>
+			</div>
+		</div>
+	</div>
+</div>
+
+<section class="ftco-section">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-10 mb-5 text-center">
+				<ul class="product-category">
+					<li><a href="#" class="active">همه ی محصولات</a></li>
+					<li><a href="#">سبزیجات</a></li>
+					<li><a href="#">میوه</a></li>
+					<li><a href="#">آبمیوه</a></li>
+					<li><a href="#">میوه خشک</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+
+			@foreach(var i in Model)
+			{
+			<div class="col-md-6 col-lg-3 ftco-animate">
+				<div class="product">
+					<a asp-controller="Home" asp-action="Ditails" asp-route-id="@i.Id" class="img-prod">
+						<img class="img-fluid" src="pics/product-@(i.Id).jpg"
+							 alt="Colorlib Template">
+						<div class="overlay"></div>
+					</a>
+					<div class="text py-3 pb-4 px-3 text-center">
+						<h3><a href="#">@i.Name</a></h3>
+					</div>
+				</div>
+			</div>
+				
+			}
+			
+		</div>
+		<div class="row mt-5">
+			<div class="col text-center">
+				<div class="block-27">
+					<ul>
+						<li><a href="#">&lt;</a></li>
+						<li class="active"><span>1</span></li>
+						<li><a href="#">2</a></li>
+						<li><a href="#">3</a></li>
+						<li><a href="#">4</a></li>
+						<li><a href="#">5</a></li>
+						<li><a href="#">&gt;</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!--Start Subscribe-->
+<section class="ftco-section ftco-no-pt ftco-no-pb py-5 bg-light">
+	<div class="container py-4">
+		<div class="row d-flex justify-content-center py-5">
+			<div class="col-md-6">
+				<h2 style="font-size: 22px;" class="mb-0">مشترک شدن در خبرنامه ما</h2>
+				<span>دریافت ایمیل درباره آخرین مغازه ها و پیشنهادات ویژه</span>
+			</div>
+			<div class="col-md-6 d-flex align-items-center">
+				<form action="#" class="subscribe-form">
+					<div class="form-group d-flex">
+						<input type="text" class="form-control" placeholder="ایمیل آدرس خود را وارد کنید">
+						<input type="submit" value="اشتراک" class="submit px-3">
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</section>
+<!--End Subscribe-->

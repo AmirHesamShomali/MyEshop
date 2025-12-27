@@ -1,0 +1,50 @@
+﻿@page
+@model MyEshop.Pages.Admin.ManageUser.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Users</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Users.userid" />
+            <div class="form-group">
+                <label asp-for="Users.email" class="control-label"></label>
+                <input asp-for="Users.email" class="form-control" />
+                <span asp-validation-for="Users.email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Users.password" class="control-label"></label>
+                <input asp-for="Users.password" class="form-control" />
+                <span asp-validation-for="Users.password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Users.Registerdate" class="control-label"></label>
+                <input asp-for="Users.Registerdate" class="form-control" />
+                <span asp-validation-for="Users.Registerdate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Users.IsAdmin" /> @Html.DisplayNameFor(model => model.Users.IsAdmin)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

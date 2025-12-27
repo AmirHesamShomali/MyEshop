@@ -1,0 +1,44 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<main class="client-page">
+    <div class="container-content">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="alert alert-danger">
+                شما مجوز دسترسی ندارید
+            </div>
+        }
+        <header><h2> ورود به سایت  </h2></header>
+
+        <div class="form-layer">
+
+            <form asp-action="login" asp-controller="Acount">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="input-group">
+                    <span class="input-group-addon" id="email-address"><i class="zmdi zmdi-email"></i></span>
+                    <input asp-for="email" type="text" class="form-control" placeholder="ایمیل" aria-describedby="email-address">
+
+                </div>
+                <span class="text-danger" style="margin-right:120px" asp-validation-for="email"></span>
+
+                <div class="input-group">
+                    <span class="input-group-addon" id="password"><i class="zmdi zmdi-lock"></i></span>
+                    <input asp-for="password" type="password" class="form-control" placeholder="رمز عبور " aria-describedby="password">
+
+                </div>
+                <span class="text-danger" style="margin-right:120px" asp-validation-for="password"></span>
+                <div class="remember-me">
+                    <label><input type="checkbox" name="">  مرا بخاطر بسپار </label>
+                </div>
+
+                <button class="btn btn-success"> ورود به سایت </button>
+
+            </form>
+        </div>
+
+    </div>
+</main>

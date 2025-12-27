@@ -1,0 +1,59 @@
+﻿@page
+@model MyEshop.Pages.Admin.IndexModel
+@{
+}
+
+<div class="w-100">
+    <h1 style="text-align:center">لیست کالا</h1>
+</div>
+<hr/>
+
+<p>
+    <a asp-page="Add" class="myButton">افزودن</a>
+    <a asp-page="manageuser/index" class="btn btn-warning">دسترسی کاربران</a>
+
+</p>
+
+<table style="width:100%">
+    <thead>
+        <tr>
+            <th>
+                تصویر
+            </th>
+                        <th>
+                نام
+            </th>
+            <th>
+                قیمت
+            </th>
+            <th>
+                دستورات
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var i in Model.productcs)
+        {
+            <tr style="border:1px solid lightgreen; padding:1px;">
+                <td style="border:1px solid lightgreen; padding:1px;">
+                    <img src="pics/product-@(i.Id).jpg" style="max-width:200px; "/>
+                </td>
+                <td style="border:1px solid lightgreen; padding:1px;">
+                    @i.Name
+                </td>
+                <td style="border:1px solid lightgreen; padding:1px;">
+                    @i.item.price
+                </td>
+                <td style="border:1px solid lightgreen; padding:1px;">
+                    <a style="color:yellow" asp-page="Edit" asp-route-id="@i.Id">
+                        ویرایش
+                    </a>
+                    <a style="color:red" asp-page-handler="Delete" asp-route-id=@i.Id>
+                        حذف
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

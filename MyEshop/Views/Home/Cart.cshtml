@@ -1,0 +1,44 @@
+﻿@model CartViewModelcs
+@{
+    ViewData["Title"] = "سبد خرید";
+}
+
+
+<table class="table table-striped">
+    <thead class="alert-dark">
+        <tr>
+            <th>کالا</th>
+            <th>تعداد</th>
+            <th>قیمت</th>
+            <th>عملیات</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+        @foreach (var i in Model.cartitem)
+        {
+            <tr>
+                <td>@i.item.productcs.Name</td>
+                <td>@i.quntity</td>
+                <td>@i.gettotalprice()</td>
+                <td>
+                    <a asp-controller="Home" asp-action="removecart" asp-route-itemid="@i.item.Id">
+                        حذف
+                    </a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+</table>
+<h5>
+    جمع کل=@Model.ordertotal
+</h5>
+
+   <a asp-action="payment" asp-controller="home" class="btn btn-success">
+        پرداخت
+   </a> 
+
+

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html style="direction:rtl">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/Admin.css" rel="stylesheet" />
+     <link href="~/lib/bootstrap4/css/bootstrap-rtl.css" rel="stylesheet" />
+ <link href="https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha23/dist/font-face.css" rel="stylesheet" type="text/css" />
+
+
+
+</head>
+<body>
+    <header>
+        <a href="/">Admin</a>
+    </header>
+    <div class="container ">
+        <nav>
+            <ul>
+                <li>
+                    <a class="nav nav-item">Home</a>
+                </li>
+            </ul>
+        </nav>
+        <main>
+        @RenderBody()
+
+        </main>
+    </div>
+    @RenderSection("Scripts",false)
+</body>
+</html>
