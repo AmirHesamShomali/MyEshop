@@ -14,3 +14,5 @@
 - **Entity Framework Core** برای مدیریت دیتابیس
 - **SQL Server** به عنوان پایگاه داده
 - **HTML / CSS / Bootstrap** برای رابط کاربری
+
+![Uploading clean architechure.png…]()
